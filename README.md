@@ -1,6 +1,6 @@
 -   ## Hi there👋 
 -    # This here is Izuchukwu V Ekejiuba
--   I’m a passionate Data Engineer and Analyst, driven by the thrill of turning raw data into powerful insights. With an eye for detail and a heart for problem-solving, I thrive on  transforming complex information into clarity that fuels decision-making and drives success.
+-   ## I’m a dedicated Analyst who thrives on converting raw data into meaningful insights. My attention to detail and problem-solving skills enable me to simplify complex information.
 - 🤔 I’m open for Data Analyst Role.
 - 👀 I am interested in taking up remote jobs as a full time Data Analyst
 - 🌱 I’m currently working on improving to challenge myself and grow my Data Analytics and Science Skills.
