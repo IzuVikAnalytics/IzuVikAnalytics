@@ -1,6 +1,6 @@
 -   ## Hi there👋 
 -    # This here is Izuchukwu V Ekejiuba
--   ## I’m a dedicated Analyst who thrives on converting raw data into meaningful insights. My attention to detail and problem-solving skills enable me to simplify complex information.
+-   ## I’m a dedicated Data Analyst who thrives on converting raw data into meaningful insights. My attention to detail and problem-solving skills enable me to simplify complex information.
 - 🤔 I’m open for Data Analyst Role.
 - 👀 I am interested in taking up remote jobs as a full time Data Analyst
 - 🌱 I’m currently working on improving to challenge myself and grow my Data Analytics and Science Skills.
